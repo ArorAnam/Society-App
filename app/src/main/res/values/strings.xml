@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home_page">Home Page</string>
+    <string name="ducss">DUCSS</string>
+    <string name="trinity_hiking">Trinity Hiking</string>
+    <string name="societies">Societies</string>
+    <string name="events">Events</string>
+    <string name="settings">Settings</string>
+    <string name="backgroun">backgroun</string>
+    <string name="todo">TODO</string>
+</resources>
